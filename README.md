@@ -55,11 +55,11 @@ An AI-powered platform that helps users analyze resumes, compare them with job d
 **Tech:** React • FastAPI • Python • Groq API • SQL
 
 <p>
-  <a href="https://resufit-w511.onrender.com">
+  <a href="https://resufit-w517i.onrender.com">
     <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/jayaramsalapu/ResuFit">
+  <a href="https://github.com/bharathkumarkarri/Resufit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -69,4 +69,4 @@ An AI-powered platform that helps users analyze resumes, compare them with job d
 ### 🌐 Let's Connect!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaram-salapu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-karri-5153171b6/)
