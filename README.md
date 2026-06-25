@@ -1,16 +1,72 @@
-## Hi there 👋
+## Hi, I'm Bharath Kumar!
+### Software Developer | Full Stack & Backend Dev
+---
 
-<!--
-**bharathkumarkarri/bharathkumarkarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💫 About Me**
+- Aspiring Software Engineer passionate about building practical and impactful applications.
+- I enjoy transforming ideas into scalable software solutions and continuously improving my development skills.
+- Goal: Build products that solve real-world problems and create meaningful user experiences.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Frontend Development
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A)
+
+
+#### ⚙️ Backend & Database
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://img.shields.io/badge/Node.js-339933)
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
+#### 🔧 Tools & DevOps
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+
+</div>
+
+---
+
+
+
+
+###  ResuFit – AI-Powered Resume Toolkit
+
+
+<p align="center">
+  <img src="https://github.com/bharathkumarkarri/bharathkumarkarri/blob/main/resufit.gif" width="400" alt="ResuFit Demo"/>
+</p>
+
+
+An AI-powered platform that helps users analyze resumes, compare them with job descriptions, identify skill gaps, and build professional resumes.
+
+**Features**
+- 📄 Resume Checker & Auditor
+- 🎯 JD Match Analysis
+- 🛠️ Interactive Resume Builder
+- 🤖 AI-Powered Insights
+
+**Tech:** React • FastAPI • Python • Groq API • SQL
+
+<p>
+  <a href="https://resufit-w511.onrender.com">
+    <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/jayaramsalapu/ResuFit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaram-salapu)
