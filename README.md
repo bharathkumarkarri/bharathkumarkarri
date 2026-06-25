@@ -55,7 +55,7 @@ An AI-powered platform that helps users analyze resumes, compare them with job d
 **Tech:** React • FastAPI • Python • Groq API • SQL
 
 <p>
-  <a href="https://resufit-w517i.onrender.com">
+  <a href="https://resufit-517i.onrender.com">
     <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 
